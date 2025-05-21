@@ -1,6 +1,6 @@
 {
   "name": "clore-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
   "engines": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/corey-code/clore-lib.git"
+    "url": "https://github.com/clore-ai/clore-lib.git"
   },
   "files": [
     "src"
